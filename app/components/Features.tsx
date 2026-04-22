@@ -45,16 +45,14 @@ export default function Features() {
               What's Included
             </div>
             <h2 className="font-[family-name:var(--font-montserrat)] font-light text-[clamp(36px,4.2vw,58px)] leading-[1.08] text-white">
-              Everything You
+              Secure
               <br />
-              <em className="italic text-teal">Need. Nothing More.</em>
+              <em className="italic text-teal">& Private.</em>
             </h2>
           </FadeIn>
           <FadeIn delay={0.14}>
             <p className="text-white/55 text-[15px] leading-[1.72] font-light">
-              Every OCCAN property is fully furnished with premium appliances,
-              high-speed internet, and all the comforts of home — so you can
-              focus entirely on the Pacific horizon.
+              24-hour security, key-card access, and a trusted management team you can count for every stay.
             </p>
           </FadeIn>
         </div>

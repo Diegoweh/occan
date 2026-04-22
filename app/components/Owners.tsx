@@ -99,7 +99,7 @@ export default function Owners() {
               </h3>
               <p className="text-[13px] text-muted mb-7">
                 Tell us about your unit — we'll send you a custom income
-                projection within 24 hours.
+                projection.
               </p>
 
               <div className="grid grid-cols-2 gap-3.5 mb-4">

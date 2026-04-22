@@ -34,6 +34,22 @@ const properties = [
     href: "https://occanproperties.com/detailed-property-listing-occan-properties/31-blue-haven-beachfront-escape---camino-al-mar-504/",
     image: "/images/cam-504.webp",
   },
+  {
+    code: "CAM 704",
+    title: "Sunset Paradise at Camino al Mar",
+    summary:
+      "Experience resort-style living at its best in this stunning 2-bedroom, 2-bath condo on the 7th floor of Camino al Mar, one of Mazatlán's most sought-after beachfront buildings.",
+    href: "https://occanproperties.com/detailed-property-listing-occan-properties/42-sunset-paradise-at-camino-al-mar/",
+    image: "/images/cam-704.webp",
+  },
+  {
+    code: "CAM 2304",
+    title: "Beachfront Resort Living - Camino al Mar",
+    summary:
+      "Camino al Mar is Mazatlan's newest luxury development, located in the Golden Zone. This sought-after area is right in the middle of the action in Mazatlán. Beachfront, pool, shopping, restaurants, etc. all right at your door-step!",
+    href: "https://occanproperties.com/detailed-property-listing-occan-properties/31-blue-haven-beachfront-escape---camino-al-mar-504/",
+    image: "/images/cam-2304.webp",
+  },
 
 ];
 
