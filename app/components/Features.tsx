@@ -4,7 +4,7 @@ const features = [
   {
     icon: "🌊",
     title: "Panoramic Ocean Views",
-    desc: "Floor-to-ceiling windows and private terraces with unobstructed Pacific views from high above the Gold Coast.",
+    desc: "Floor-to-ceiling windows and private terraces with unobstructed Pacific views from high above.",
   },
   {
     icon: "🍳",
@@ -18,7 +18,7 @@ const features = [
   },
   {
     icon: "🛏",
-    title: "2 and 3 Bedrooms units, 1.5 Baths",
+    title: "2 and 3 Bedrooms units",
     desc: "Sleeping arrangements for up to 6 guests across three private bedrooms, each with quality linens and dedicated closet space.",
   },
   {
@@ -29,7 +29,7 @@ const features = [
   {
     icon: "🔒",
     title: "Secure & Private",
-    desc: "24-hour security, key-card access, and a trusted management team you can count on for every stay.",
+    desc: "24-hour security and a trusted management team you can count on for every stay.",
   },
 ];
 
@@ -45,14 +45,16 @@ export default function Features() {
               What's Included
             </div>
             <h2 className="font-[family-name:var(--font-montserrat)] font-light text-[clamp(36px,4.2vw,58px)] leading-[1.08] text-white">
-              Secure
+              Everything You
               <br />
-              <em className="italic text-teal">& Private.</em>
+              <em className="italic text-teal">Need. Nothing More.</em>
             </h2>
           </FadeIn>
           <FadeIn delay={0.14}>
             <p className="text-white/55 text-[15px] leading-[1.72] font-light">
-              24-hour security, key-card access, and a trusted management team you can count for every stay.
+              Every OCCAN property is fully furnished with premium appliances,
+              high-speed internet, and all the comforts of home — so you can
+              focus entirely on the Pacific horizon.
             </p>
           </FadeIn>
         </div>

@@ -57,14 +57,10 @@ export default function Gallery() {
               Inside the Property
             </div>
             <h2 className="font-[family-name:var(--font-montserrat)] font-light text-[clamp(36px,4.2vw,58px)] leading-[1.08] text-site-black">
-              2 and 3
+              Every Room,
               <br />
-              <em className="italic text-teal-deep">Bedrooms units</em> 
+              <em className="italic text-teal-deep">Thoughtfully Designed</em>
             </h2>
-
-            <p className="text-[16px] leading-[1.78] text-body font-light mt-[26px]">
-              Sleeping arrangements for up to 6 guests across three private bedrooms, each with quality linens and dedicated closet space.
-            </p>
           </FadeIn>
           <FadeIn delay={0.14}>
             <a

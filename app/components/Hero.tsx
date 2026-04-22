@@ -32,13 +32,15 @@ export default function Hero() {
         </div>
 
         <h1 className="font-[family-name:var(--font-montserrat)] font-light text-[clamp(52px,7vw,92px)] leading-none text-white mb-[22px]">
-          Panoramic
+          Wake Up to
           <br />
-          <em className="italic text-teal">Ocean Views</em>
+          <em className="italic text-teal">Infinite Ocean.</em>
         </h1>
 
         <p className="text-white/76 text-[17px] font-light leading-[1.65] max-w-[520px] mb-10">
-          Floor-to-ceiling windows and private terraces with unbostructed Pacific views from high above.
+          Fully-furnished luxury condominiums with panoramic Pacific views,
+          curated by OCCAN Properties — your trusted partner for premium
+          vacation experiences on Mexico's Gold Coast.
         </p>
 
         <div className="flex flex-wrap gap-3.5">
